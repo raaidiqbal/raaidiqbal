@@ -20,7 +20,7 @@ Right now, I'm building **[Seonsu](https://github.com/raaidiqbal/Seonsu)**, a re
 | :--- | :--- | :--- |
 | **[Seonsu](https://github.com/raaidiqbal/Seonsu)** · [Live demo](https://seonsu-athlete-recovery.iqbalm490714.chatgpt.site) | Tracks a focused recovery pathway with check-ins, exercise completion, and rule-based progression. | TypeScript, React, Cloudflare Workers, D1 |
 | **[ZApp](https://github.com/raaidiqbal/Zapp)** | A campus marketplace concept connecting buyers, sellers, and workers. | JavaScript, full-stack web |
-| **[NextEpisode](https://github.com/raaidiqbal/NextEpisode)** | A team-built anime discovery site with search, genre filters, rankings, and a random pick feature. | Python, Flask, HTML, CSS |
+| **[NextEpisode](https://github.com/raaidiqbal/NextEpisode)** · [Demo videos](https://github.com/raaidiqbal/NextEpisode/tree/master/Feature%20Demos) | A team-built anime discovery site with search, genre filters, rankings, and a random pick feature. | Python, Flask, HTML, CSS |
 | **[Network Topology](https://github.com/raaidiqbal/Raaid-Network-Topology)** | Network projects and analyses spanning Gopher, routing, TCP, and DNS. | Python, networking tools |
 
 ## What I work with
