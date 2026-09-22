@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Raaid Iqbal</title>
+  <desc id="desc">Building thoughtful software, from interface to infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1525"/>
+      <stop offset="1" stop-color="#17264a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#a5b4fc"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94a3b8" stroke-opacity=".09"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="22" fill="url(#grid)"/>
+  <path d="M0 0h1200v280H0z" fill="none" stroke="#9fb2d9" stroke-opacity=".16" stroke-width="2" rx="22"/>
+  <rect x="76" y="58" width="60" height="6" rx="3" fill="url(#accent)"/>
+  <text x="76" y="139" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="56" font-weight="700" letter-spacing="-2">Raaid Iqbal</text>
+  <text x="78" y="187" fill="#b9c8dc" font-family="Arial, Helvetica, sans-serif" font-size="24">Building thoughtful software, from interface to infrastructure.</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".86">
+    <path d="M901 72l72 49 83-40 65 78-76 57-101-28-68 36"/>
+    <path d="M973 121l-29 67m112-107l-11 135m-101-28l101 28" opacity=".47"/>
+  </g>
+  <g fill="#0f2138" stroke="#7ddfd8" stroke-width="3">
+    <circle cx="901" cy="72" r="10"/><circle cx="973" cy="121" r="11"/><circle cx="1056" cy="81" r="10"/>
+    <circle cx="1121" cy="159" r="12"/><circle cx="1045" cy="216" r="11"/><circle cx="944" cy="188" r="11"/><circle cx="876" cy="224" r="9"/>
+  </g>
+</svg>
