@@ -3,6 +3,8 @@
 
   <br />
 
+  <a href="https://raaid-iqbal-portfolio.iqbalm490714.chatgpt.site"><strong>Visit my portfolio</strong></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/raaidiqbal?tab=repositories"><strong>Explore my projects</strong></a>
   &nbsp;·&nbsp;
   <a href="https://seonsu-athlete-recovery.iqbalm490714.chatgpt.site"><strong>Try the Seonsu demo</strong></a>
