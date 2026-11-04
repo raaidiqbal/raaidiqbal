@@ -21,13 +21,13 @@ Right now, I'm building **[Seonsu](https://github.com/raaidiqbal/Seonsu)**, a re
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
 | **[Seonsu](https://github.com/raaidiqbal/Seonsu)** · [Live demo](https://seonsu.iqbalm-963.workers.dev/) | Tracks a focused recovery pathway with check-ins, exercise completion, and rule-based progression. | TypeScript, React, Cloudflare Workers, D1 |
-| **[ZApp](https://github.com/raaidiqbal/Zapp)** | A campus marketplace concept connecting buyers, sellers, and workers. | JavaScript, full-stack web |
+| **[Faultline](https://github.com/raaidiqbal/faultline-dbx)** · [Incident console](https://github.com/raaidiqbal/faultline-dbx/blob/main/docs/faultline-dashboard.png) | Tests whether duplicate, late, malformed, out-of-order, and deleted events still converge to a provably correct lakehouse state. | Python, Databricks, Lakeflow, Delta Lake |
 | **[NextEpisode](https://github.com/raaidiqbal/NextEpisode)** · [Live demo](https://next-episode-raaid.iqbalm-963.workers.dev/) · [Demo videos](https://github.com/raaidiqbal/NextEpisode/tree/master/Feature%20Demos) | A team-built anime discovery site with search, genre filters, rankings, and a random pick feature. | Python, Flask, HTML, CSS |
-| **[Network Topology](https://github.com/raaidiqbal/Raaid-Network-Topology)** | Network projects and analyses spanning Gopher, routing, TCP, and DNS. | Python, networking tools |
+| **[Wardrobe Studio](https://github.com/raaidiqbal/wardrobe-studio)** | An interactive digital wardrobe where garments rotate from a clothing rack into a focused detail view. | JavaScript, HTML, CSS, Python asset pipeline |
 
 ## What I work with
 
-`TypeScript` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Python` &nbsp; `Flask` &nbsp; `SQL` &nbsp; `Cloudflare Workers`
+`TypeScript` &nbsp; `JavaScript` &nbsp; `React` &nbsp; `Python` &nbsp; `Flask` &nbsp; `SQL` &nbsp; `Databricks` &nbsp; `Cloudflare Workers`
 
 <div align="center">
   <sub>Thanks for visiting — explore the repositories above to see the work behind each project.</sub>
